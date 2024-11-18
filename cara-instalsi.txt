@@ -1,0 +1,16 @@
+1. Ekstrak file zip nya ke htdocs
+2. Buka Phpmyadmin lalu buat database baru, setelah itu import file .sql yg ada di dlm zip nya
+3. Buka file core/config.php lalu set DB_NAME nya jadi nama database yg baru anda buat tadi
+4. Langkah terakhir set BASE_URL nya,, arahkan ke folder kamu(jika pada saat mengekstrak zip nya anda tdk merename nama folder nya maka skip langkah ini)
+5. Setelah itu sudah berhasil,, anda tinggal buka http://localhost/nama_foldermu/index.php untk akses web nya :)
+
+jika ada kendala bisa langsung WA ke 088971837666
+
+- Info akun
+level admin :
+  username : admin
+  pw : admin
+level takmir :
+  username : takmir 
+  pw : takmir
+Untuk yg jammah anda bisa register sendiri aja

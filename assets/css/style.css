@@ -1,0 +1,36 @@
+.tbl tr th:nth-child(1) {
+  width: 5%;
+}
+.tbl tr th:nth-child(2) {
+  width: 10%;
+}
+.tbl tr th:nth-child(3) {
+  width: 25%;
+}
+.tbl tr th:nth-child(4) {
+  width: 20%;
+}
+.tbl tr th:nth-child(5) {
+  width: 25%;
+}
+.tbl tr th:nth-child(6) {
+  width: 15%;
+}
+
+#img_preview_3 {
+  width: 100%;
+  height: 250px;
+}
+
+@media (max-width: 720px) {
+  #headerMasjid {
+    display: none !important;
+  }
+  #card_profile {
+    width: 75% !important;
+  }
+  .col-d-flex {
+    display: flex !important;
+    justify-content: center !important;
+  }
+}
